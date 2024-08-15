@@ -1,3 +1,7 @@
 top bun
-sweet corn
+
+raw clam (added by Jakobus)
+sweet corn (Addad by Pao)
+
 bottom bun
+
