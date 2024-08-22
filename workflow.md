@@ -1,0 +1,1 @@
+To avoid merge conflicts, ensure all team members regularly pull the latest changes from the main branch before starting new work and are using small, frequent commits and integrate changes often to minimize overlap.
