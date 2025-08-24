@@ -1,0 +1,1 @@
+To minimize the risk of merge conflicts, team members should consistently fetch the latest changes from the main branch before beginning new development. Encourage frequent, smaller commits and regular integration of work to help avoid overlapping changes and streamline collaboration.
