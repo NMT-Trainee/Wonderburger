@@ -10,4 +10,4 @@
 * External Branch: Lily-Branch2
 
  ## Resolving conflict
- Within GitHub me and Lily05211 conversed about how to resolve it, we decided to adjust the ingredients' locations (lines) so that all our ingredients could be added.
+ Me and Lily05211 conversed about how to resolve it, we decided to adjust the ingredients' locations (lines) so that all our ingredients could be added.
